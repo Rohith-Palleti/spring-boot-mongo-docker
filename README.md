@@ -1,4 +1,4 @@
-# Build Project Using Maven
+# Build Project Using Mavin
 
 Maven is java based build tool to generate executable 
 
